@@ -1,5 +1,5 @@
 /*
- By Sosthenes 
+ By Sosthenes Oliveira Lima
 */
 let listaDeNumerosSorteados = [];
 let numeroLimite = 50;
@@ -38,7 +38,6 @@ function verificarChute() {
         limparCampo();
     }
 }
-
 function gerarNumeroAleatorio() {
     let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1);
     let quantidadeDeElementosNaLista = listaDeNumerosSorteados.length;
