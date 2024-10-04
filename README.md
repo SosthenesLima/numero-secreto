@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto 2025</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação 2025.</p>
+<p>Projeto utilizado nos cursos de lógica de programação 2024.</p>
 
 ## 🚀 Tecnologias
 <div>
